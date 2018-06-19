@@ -7,3 +7,10 @@ body {
       background-color: gray;
       color: blue
     }
+    
+.summer {
+  background-color: yellow;
+  border: green 25px solid;
+  text-align: center;
+  cursor: pointer;
+}
