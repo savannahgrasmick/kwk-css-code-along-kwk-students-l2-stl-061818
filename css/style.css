@@ -1,1 +1,32 @@
-/* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+.summer {
+  background-color: yellow;
+  border: green 25px solid;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+#savannahClass {
+  color: navy;
+  
+}
+
+
+
+
+
+
+
+
+
+
